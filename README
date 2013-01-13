@@ -1,17 +1,17 @@
-+------------------------+
-+      Crazy Snakes      +
-+------------------------+
-+ Author: Paul Gatterdam +
-+ Version: 0.2           +
-+------------------------+
-
 Crazy Snakes
++ Author: Paul Gatterdam
++ Version: 0.2
++ Game Engine: Unity3D v4.0
++ Release Date: 1/13/2013
+
+Game Rules
 -------------
 Crazy Snakes is a mashup of Snake and multiplayer functionality.
 
 Right click anywhere on the map to move in that direction.
 
 Eat green food pellets to grow!
+
 Try not to run into walls or other players.
 
 
