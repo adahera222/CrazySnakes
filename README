@@ -1,0 +1,27 @@
++------------------------+
++      Crazy Snakes      +
++------------------------+
++ Author: Paul Gatterdam +
++ Version: 0.2           +
++------------------------+
+
+Crazy Snakes
+-------------
+Crazy Snakes is a mashup of Snake and multiplayer functionality.
+
+Right click anywhere on the map to move in that direction.
+
+Eat green food pellets to grow!
+Try not to run into walls or other players.
+
+
+To-Do List
+------------
+- Implement scoring system and win conditions.
+- Randomly generate food pellets.
+- Expand map.
+
+
+Current Known Issues
+---------------------
+- Segments will attempt to move back to nodes that should have been deleted.
